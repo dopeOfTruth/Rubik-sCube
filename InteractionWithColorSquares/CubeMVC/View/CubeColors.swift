@@ -8,12 +8,12 @@
 import UIKit
 
 enum CubeColors: Int {
-    case redSide = 1
-    case orangeSide = 2
-    case greenSide = 3
-    case blueSide = 4
-    case whiteSide = 5
-    case yellowSide = 6
+    case redSide = 0
+    case orangeSide = 1
+    case greenSide = 2
+    case blueSide = 3
+    case whiteSide = 4
+    case yellowSide = 5
     
     
     var color: UIColor {
